@@ -1,4 +1,8 @@
 import sqlite3
-import os
-import sys
-import time
+
+
+connection = sqlite3.connect('database.db')
+cursor = connection.cursor()
+
+
+
