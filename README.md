@@ -6,7 +6,9 @@ The industry players compete aggresively every year to sell the most titles. It 
 
 Flowchart
 
-![image](https://user-images.githubusercontent.com/70504872/195219293-286a3560-9a77-48f0-9d76-423f9364f914.png)
+
+![image](https://user-images.githubusercontent.com/70504872/204965993-58300631-cab7-464e-88ce-dbd45aacf25d.png)
+
 
 
 
